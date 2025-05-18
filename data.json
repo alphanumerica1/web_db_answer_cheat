@@ -1,1 +1,139 @@
-[{"data":"data sample"},{}]
+{
+    "hci": [
+        {
+            "What class must be added to all textual <input>, <textarea>, and <select> elements in Bootstrap forms?": "C. .form-control"
+        },
+        {
+            "Which of the following is not a valid Bootstrap form control?": "D. table"
+        },
+        {
+            "What is the default hover color when using .table-hover?": "C. Grey"
+        },
+        {
+            "What class provides the basic Bootstrap table styling?": "B. .table"
+        },
+        {
+            "Which class is used to place a button next to an input field in an input group?": "D. Aligned inline and left-aligned"
+        },
+        {
+            "Which of the following properties is applied by .img-responsive?": "B. max-width: 100%"
+        },
+        {
+            "Which class makes a checkbox appear disabled in Bootstrap?": "C. .disabled"
+        },
+        {
+            "Which of the following best describes .table-responsive behavior on large screens?": "C. No difference from a regular table"
+        },
+        {
+            "Which Bootstrap class turns an image into a circle shape?": "C. .img-circle"
+        },
+        {
+            "To create a primary-colored button, which class should be used?": "B. .btn-primary"
+        },
+        {
+            "How can Bootstrap button styles be applied to links?": "C. By using a class on the <a> element"
+        },
+        {
+            "Which class is used to align radio buttons inline?": "C. .radio-inline"
+        },
+        {
+            "Which class makes an image appear with a thumbnail style?": "C. .img-thumbnail"
+        },
+        {
+            "When does the .table-responsive class apply horizontal scrolling?": "C. On screens smaller than 768px"
+        },
+        {
+            "In a horizontal form, how can you offset columns for alignment?": "C. .col-sm-offset-*"
+        },
+        {
+            "If a form is wider than 767px, how will a horizontal form display labels?": "C. On the left, beside inputs"
+        },
+        {
+            "What class gives you a button styled like a hyperlink?": "A. .btn-link"
+        },
+        {
+            "Which class is typically combined with .table to achieve responsive behavior?": "C. .table-responsive"
+        },
+        {
+            "In a horizontal form, what class should be applied to all <label> elements?": "B. .control-label"
+        },
+        {
+            "Which of the following form layouts is the default in Bootstrap?": "C. Vertical form"
+        },
+        {
+            "What class is used within .input-group to add an icon or label before/after an input?": "B. .input-group-addon"
+        },
+        {
+            "Which class allows a table to be scrollable on small screens?": "C. Removes background colors and fills button with outline"
+        },
+        {
+            "What Bootstrap class ensures that an image adjusts automatically to screen size?": "B. .img-responsive"
+        },
+        {
+            "Which class adds a hover effect to table rows?": "A. .table-hover"
+        },
+        {
+            "Which class reduces the padding inside table cells?": "C. .success"
+        },
+        {
+            "What does .table-striped add to a table?": "B. Alternate row coloring"
+        },
+        {
+            "Which class is used for Bootstrap’s warning-styled button?": "B. .btn-warning"
+        },
+        {
+            "Where do you apply .img-responsive to make it effective?": "B. <img>"
+        },
+        {
+            "Which class applies a green button typically used for success messages?": "A. .btn-success"
+        },
+        {
+            "Which of the following is NOT a valid Bootstrap table contextual class?": "C. .alert"
+        },
+        {
+            "Which HTML5 input types are supported by Bootstrap?": "B. text, email, url, color, tel, etc."
+        },
+        {
+            "What class is used to display plain text next to a label in a horizontal form?": "C. .form-control-static"
+        },
+        {
+            "How does the .table-condensed class affect table appearance?": "C. Reduces cell padding by half"
+        },
+        {
+            "What class combination is used to create a responsive image gallery in Bootstrap?": "B. .table table-bordered table-hover table-condensed"
+        },
+        {
+            "Which contextual class would most likely be used to indicate a warning in a row?": "C. .warning"
+        },
+        {
+            "Which of the following is a base class for all Bootstrap buttons?": "C. .btn"
+        },
+        {
+            "Which class should wrap labels and form controls to ensure proper spacing?": "C. .form-group"
+        },
+        {
+            "What HTML tag is used with Bootstrap image shape classes like .img-rounded?": "C. <img>"
+        },
+        {
+            "Which input type is NOT supported for button styling in Bootstrap?": "C. <input type=\"text\">"
+        },
+        {
+            "What class is used to give an image rounded corners in Bootstrap?": "A. .img-rounded"
+        },
+        {
+            "What is the purpose of the .input-group class?": "B. Add icons or text beside an input"
+        },
+        {
+            "What additional class is required on <form> for a horizontal form?": "B. .form-horizontal"
+        },
+        {
+            "Which image class is best for fitting images inside parent containers fluidly?": "C. .img-responsive"
+        },
+        {
+            "What effect does the .table-bordered class have on a table?": "B. It adds borders to all sides of the table and each cell"
+        },
+        {
+            "What is the purpose of contextual classes in Bootstrap tables?": "C. To color rows or cells to indicate meaning"
+        }
+    ]
+}
