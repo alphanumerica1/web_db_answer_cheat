@@ -1,1 +1,26 @@
-["123"]
+[
+  {
+    "admin": [
+      "passcode",              // password
+      "asdfghhgfdsaf",         // access ID
+      "asdfdsasf",             // encryption or other data
+      "AdminMaster"            // nickname
+    ]
+  },
+  {
+    "user1": [
+      "pass1",
+      "user1-access-id",
+      "user1-encrypted-data",
+      "UserOne"
+    ]
+  },
+  {
+    "guest": [
+      "guest123",
+      "guest-access-id",
+      "guest-encrypted",
+      "Guesty"
+    ]
+  }
+]
