@@ -1,10 +1,10 @@
 [
   {
     "admin": [
-      "passcode",              // password
-      "asdfghhgfdsaf",         // access ID
-      "asdfdsasf",             // encryption or other data
-      "AdminMaster"            // nickname
+      "passcode",
+      "asdfghhgfdsaf",
+      "asdfdsasf",
+      "AdminMaster"
     ]
   },
   {
