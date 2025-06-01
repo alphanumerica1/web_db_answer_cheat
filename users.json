@@ -18,8 +18,8 @@
   {
     "guest": [
       "guest123",
-      "guest-access-id",
-      "guest-encrypted",
+      "user",
+      "data.json",
       "Guesty"
     ]
   }
