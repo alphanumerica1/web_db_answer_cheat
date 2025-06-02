@@ -8,6 +8,14 @@
     ]
   },
   {
+    "a": [
+      "a",
+      "admin",
+      "data.json",
+      "AdminMastertest"
+    ]
+  },
+  {
     "user1": [
       "pass1",
       "user1-access-id",
