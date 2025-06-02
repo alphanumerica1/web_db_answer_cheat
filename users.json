@@ -5,7 +5,8 @@
       "authority/admin/user/guest/staff",
       "which-db",
        "subjects",
-      "AdminMaster"
+      "AdminMaster",
+      "avatar_code-color-eyes-mouth"
     ]
   },
   {
@@ -14,7 +15,8 @@
       "admin",
       "data.json",
       "ge1",
-      "AdminMastertest"
+      "AdminMastertest",
+      "12-54-50"
     ]
   },
   {
@@ -23,7 +25,8 @@
       "user1-access-id",
       "user1-encrypted-data",
       "ge4",
-      "UserOne"
+      "UserOne",
+      "12-54-50"
     ]
   },
   {
@@ -32,7 +35,8 @@
       "user",
       "ge4",
       "data.json",
-      "Guesty"
+      "Guesty",
+      "12-54-50"
     ]
   }
 ]
