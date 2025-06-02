@@ -2,8 +2,9 @@
   {
     "admin": [
       "passcode",
-      "asdfghhgfdsaf",
-      "asdfdsasf",
+      "authority/admin/user/guest/staff",
+      "which-db",
+       "subjects",
       "AdminMaster"
     ]
   },
@@ -12,6 +13,7 @@
       "a",
       "admin",
       "data.json",
+      "ge1",
       "AdminMastertest"
     ]
   },
@@ -20,6 +22,7 @@
       "pass1",
       "user1-access-id",
       "user1-encrypted-data",
+      "ge4",
       "UserOne"
     ]
   },
@@ -27,6 +30,7 @@
     "guest": [
       "guest123",
       "user",
+      "ge4",
       "data.json",
       "Guesty"
     ]
