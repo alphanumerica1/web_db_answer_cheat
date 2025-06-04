@@ -2,41 +2,49 @@
   {
     "admin": [
       "passcode",
-      "authority/admin/user/guest/staff",
-      "which-db",
-       "subjects",
-      "AdminMaster",
-      "avatar_code-color-eyes-mouth"
+      "authority_idlike_admin/user/guest/staff",
+      "authority display",
+      ["which-db", "database1.json", "database2.json"],
+      ["subjects"],
+      "nick name",
+      "avatar_code-color-eyes-mouth",
+      "unique_id_code"
     ]
   },
   {
     "a": [
       "a",
       "A8pFvJ9qR2xTnB7uLsMz4DkCeW1YoVGhX0rEj",
-      "data.json",
-      "ge1",
+      "MASTER ADMIN",
+      ["database1.json", "database2.json"],
+      ["ge1", "ge4"],
       "AdminMastertest",
-      "12-54-50"
+      "12-54-50",
+      "V13fJknKRnNMTjkWIEkZkrUr9R4dscqq3uO0p"
     ]
   },
   {
     "user1": [
       "pass1",
       "QeB5RnD7FmHwLvO18gCXtUSjpzZksWyVi4Yc2oA",
-      "user1-encrypted-data",
-      "ge4",
+      "USER",
+      ["data.json"],
+      ["ge4"],
       "UserOne",
-      "12-54-50"
+      "12-54-50",
+      "Nw7rHp2TXeqLgDjMkVY38uZJtcE9oKsQRF01b"
     ]
   },
   {
     "guest": [
       "guest123",
       "lhTGX0Zre9BC2MYfRwdav7NSQtqJsW1oknV3xDu",
-      "ge4",
-      "data.json",
+      "GUEST",
+      ["data.json"],
+      ["ge4"],
       "Guesty",
-      "12-54-50"
+      "12-54-50",
+      "rM3pLzqAeTYcKoUbWfRgN17dXHs94QjIxE2v"
     ]
   }
 ]
