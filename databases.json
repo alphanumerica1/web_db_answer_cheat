@@ -9,6 +9,12 @@
     }
   ],
   [
-    { "data2.json": "admin_hello" }
+    { "data2.json": "admin_hello" },
+    {
+      "access": [
+        { "high_auth": ["V13fJknKRnNMTjkWIEkZkrUr9R4dscqq3uO0p"] },
+        { "lower_auth": [""] }
+      ]
+    }
   ]
 ]
