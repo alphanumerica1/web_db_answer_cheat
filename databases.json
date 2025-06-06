@@ -1,2 +1,1 @@
-[{"data1":"test"},{"data2":"admin_hello"}
-]
+[{"data1.json":"test"},{"data2.json":"admin_hello"}
